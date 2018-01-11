@@ -37,6 +37,10 @@ JamPlay เป็นเพียงช่องทางการลงเนื
 2. นักเขียนสามารถตั้งราคาผลงานได้ตั้งแต่ตอนที่ 2 เป็นต้นไป โดยสมารถเลือกได้ว่าจะตั้งเป็น Silver Jelly หรือ Gold Jelly
 
 ## นักเขียนจะได้รับส่วนแบ่งรายได้จากการขายผลงานเท่าไหร่
+<div style='text-align: center; width:100%;'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-zIFdZGfQxs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 นักเขียนจะได้รับส่วนแบ่งรายได้ 50% จากราคาขายผลงานบน JamPlay โดยคำนวณจากจำนวน Gold Jelly ที่นักเขียนได้รับจากการขายผลงาน โดยอัตราการคำนวณ Gold Jelly เป็น เงินบาท อยู่ที่ 100 Gold Jelly เท่ากับเงิน 1 บาท
 
 ## สามารถทำการโปรโมตผลงานของตนเองได้อย่างไรบ้าง
