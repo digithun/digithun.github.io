@@ -1,4 +1,4 @@
-<img width='100%' src='hhttps://s3-ap-southeast-1.amazonaws.com/static.jamplay.world/static/Static_Desktop_GoldJelly199.jpg' />
+<img width='100%' src='https://s3-ap-southeast-1.amazonaws.com/static.jamplay.world/static/Static_Desktop_GoldJelly199.jpg' />
 
 # ห้ามพลาด!! แพ็คเกจสุดคุ้มเอาใจสายเปย์ ช่วงเปิดตัวเท่านั้น
 
