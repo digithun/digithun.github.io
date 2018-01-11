@@ -1,5 +1,7 @@
 # เกี่ยวกับ JamPlay
+<div style='text-align: center; width:100%;'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-zIFdZGfQxs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 ## JamPlay คืออะไร?
 JamPlay คือ แพลตฟอร์ม (เครื่องมือ) ที่ชวนให้เหล่านักเขียนนำตัวหนังสือที่กลั่นกรองผ่านสมองและหัวใจของพวกเขามาแบ่งปันให้กับบรรดานักอ่าน เพราะพวกเราเชื่อว่าการอ่านคือบ่อเกิดของจินตนาการที่สร้างความสุขได้ไม่รู้จบ
 ## พวกเราคือใคร?
