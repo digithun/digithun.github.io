@@ -29,6 +29,7 @@
 12. พนักงานและครอบครัวของบริษัท แจ่มใส จำกัด และบริษัทในเครือ และบุคคล / องค์กรที่เกี่ยวของกับการจัดรายการในครั้งนี้ไม่มีสิทธิ์ร่วมรายการ
 13. การตัดสินของทางบริษัทฯ ถือเป็นเด็ดขาดและสิ้นสุด
 
+<br>
 <div style='text-align: center'>
     <a href="/affiliate/" style="text-decoration: none">
         <button style="border-radius: 5px;
@@ -39,7 +40,6 @@
             min-width: 100px;
             font-weight: 700;
             padding: 7px 12px;
-            display: block;
             width: 15%;
             box-sizing: border-box;
             cursor: pointer;"
@@ -48,3 +48,4 @@
         </button>
     </a>  
 </div> 
+<br>
