@@ -1,3 +1,5 @@
+<link rel="stylesheet" property="stylesheet" href="css/custom.css">
+
 <img width='100%' src='https://s3-ap-southeast-1.amazonaws.com/static.jamplay.world/static/Static_Desktop_GoldJelly199.jpg' />
 
 # ห้ามพลาด!! แพ็คเกจสุดคุ้มเอาใจสายเปย์ ช่วงเปิดตัวเท่านั้น
@@ -14,7 +16,7 @@
 
 <div style='text-align: center'>
     <a href="https://www.jamplay.world/payment" style="text-decoration: none">
-        <button className={'static-button-jamplay'}
+        <button class="static-button-jamplay"
             onMouseOver="this.style.opacity='0.8'"
             onMouseOut="this.style.opacity='1'">เติม Jelly
         </button>
