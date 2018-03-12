@@ -14,7 +14,7 @@
 
 <div style='text-align: center'>
     <a href="https://www.jamplay.world/payment" style="text-decoration: none">
-        <button className="static-button-jamplay"
+        <button class="static-button-jamplay"
             onMouseOver="this.style.opacity='0.8'"
             onMouseOut="this.style.opacity='1'">เติม Jelly
         </button>

@@ -31,7 +31,7 @@
 
 <div style='text-align: center'>
     <a href="/affiliate/" style="text-decoration: none">
-        <button className="static-button-jamplay"
+        <button class="static-button-jamplay"
             onMouseOver="this.style.opacity='0.8'"
             onMouseOut="this.style.opacity='1'">ชวนเพื่อน
         </button>
