@@ -1,5 +1,3 @@
-<link rel="stylesheet" property="stylesheet" href="css/custom.css">
-
 <img width='100%' src='https://s3-ap-southeast-1.amazonaws.com/static.jamplay.world/static/jamplay-member-get-members-infographic.jpg' />
 
 ## เงื่อนไข
@@ -33,7 +31,7 @@
 
 <div style='text-align: center'>
     <a href="/affiliate/" style="text-decoration: none">
-        <button class="static-button-jamplay"
+        <button className="static-button-jamplay"
             onMouseOver="this.style.opacity='0.8'"
             onMouseOut="this.style.opacity='1'">ชวนเพื่อน
         </button>
