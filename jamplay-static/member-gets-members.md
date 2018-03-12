@@ -31,17 +31,7 @@
 
 <div style='text-align: center'>
     <a href="/affiliate/" style="text-decoration: none">
-        <button style="border-radius: 5px;
-            color: #fff;
-            background: #F05A22;
-            border: 2px solid #F05A22;
-            font-size: 1rem;
-            min-width: 100px;
-            font-weight: 700;
-            padding: 7px 12px;
-            width: 15%;
-            box-sizing: border-box;
-            cursor: pointer;"
+        <button class="static-button-jamplay"
             onMouseOver="this.style.opacity='0.8'"
             onMouseOut="this.style.opacity='1'">ชวนเพื่อน
         </button>

@@ -12,7 +12,11 @@
 3. ข้อกำหนดและเงื่อนไขเป็นไปตามที่ JamPlay กำหนด 
 4. JamPlay ขอสงวนสิทธิ์การเปลี่ยนแปลง/แก้ไข/ยกเลิกโปรโมชั่นโดยไม่ต้องแจ้งให้ทราบล่วงหน้า
 
-<div style='text-align: center; width:100%;'>
-<a href='https://www.jamplay.world/payment'><img width='100px' src='https://s3-ap-southeast-1.amazonaws.com/static.jamplay.world/static/TopupJelly.png' />
-</a>
-<div>
+<div style='text-align: center'>
+    <a href="https://www.jamplay.world/payment" style="text-decoration: none">
+        <button class="static-button-jamplay"
+            onMouseOver="this.style.opacity='0.8'"
+            onMouseOut="this.style.opacity='1'">เติม Jelly
+        </button>
+    </a>  
+</div> 
