@@ -1,4 +1,4 @@
-<img width='100%' src='https://s3-ap-southeast-1.amazonaws.com/static.jamplay.world/static/jamplay-member-get-members-infographic.jpg' />
+<img width='100%' src='https://s3-ap-southeast-1.amazonaws.com/static.jamplay.world/static/Jamplay-together-infographic.jpg' />
 
 ## เงื่อนไข
 1. ผู้แนะนำต้องเป็นสมาชิก JamPlay
