@@ -19,7 +19,7 @@
 5. การตัดสินของทางบริษัทฯ ถือเป็นเด็ดขาดและสิ้นสุด
 
 <div style='text-align: center'>
-    <a href="https://www.jamplay.world/payment" style="text-decoration: none">
+    <a href="/payment/" style="text-decoration: none">
         <button class="static-button-jamplay"
             onMouseOver="this.style.opacity='0.8'"
             onMouseOut="this.style.opacity='1'">เติม Jelly
