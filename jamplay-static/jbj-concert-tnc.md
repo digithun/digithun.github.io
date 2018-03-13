@@ -27,6 +27,8 @@
     </a>  
 </div> 
 
+<br>
+
 <div style='text-align: center'>
     <a href="https://goo.gl/forms/RNnsNmCJkZXBlRSD3" style="text-decoration: none">
         <button class="static-button-jamplay"
