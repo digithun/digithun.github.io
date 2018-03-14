@@ -27,8 +27,9 @@
             onMouseOut="this.style.opacity='1'">เติม Jelly
         </button>
     </a>
-    
 </div> 
+
+<br>
 
 <div style='text-align: center'>
     <a target="_blank" href="https://goo.gl/forms/RNnsNmCJkZXBlRSD3" style="text-decoration: none">
