@@ -22,18 +22,18 @@
 
 <div style='text-align: center'>
     <a target="_blank" href="/payment/" style="text-decoration: none">
-        <button class="static-button-jamplay"
+        <button class="static-button-jamplay" style="font-size: 0.85rem"
             onMouseOver="this.style.opacity='0.8'"
             onMouseOut="this.style.opacity='1'">เติม Jelly
         </button>
     </a>
 </div> 
 
-<br>
+
 
 <div style='text-align: center'>
     <a target="_blank" href="https://goo.gl/forms/RNnsNmCJkZXBlRSD3" style="text-decoration: none">
-        <button class="static-button-jamplay" style="font-size: 0.85rem;"
+        <button class="static-button-jamplay" style="font-size: 0.85rem"
             onMouseOver="this.style.opacity='0.8'"
             onMouseOut="this.style.opacity='1'">กรอกฟอร์ม
         </button>
