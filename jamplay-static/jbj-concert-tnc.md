@@ -31,7 +31,7 @@
 
 <br>
 
-<div style='text-align: center; font-size: 1.5em'>
+<div style='text-align: center; font-size: small'>
     <a target="_blank" href="https://goo.gl/forms/RNnsNmCJkZXBlRSD3" style="text-decoration: none">
         <button class="static-button-jamplay"
             onMouseOver="this.style.opacity='0.8'"
