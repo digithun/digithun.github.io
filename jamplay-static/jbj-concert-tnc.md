@@ -33,7 +33,7 @@
 
 <div style='text-align: center'>
     <a target="_blank" href="https://goo.gl/forms/RNnsNmCJkZXBlRSD3" style="text-decoration: none">
-        <button class="static-button-jamplay" style="font-size: 0.75rem;"
+        <button class="static-button-jamplay" style="font-size: 0.85rem;"
             onMouseOver="this.style.opacity='0.8'"
             onMouseOut="this.style.opacity='1'">กรอกฟอร์ม
         </button>
