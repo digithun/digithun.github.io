@@ -1,4 +1,6 @@
-<img width='70%' align='middle' src='https://s3-ap-southeast-1.amazonaws.com/static.jamplay.world/static/jamplay-together-winners.jpg' />
+<div style="text-align:center">  
+  <img width='70%' align='middle' src='https://s3-ap-southeast-1.amazonaws.com/static.jamplay.world/static/jamplay-together-winners.jpg' /> 
+<div>
 
 # ประกาศรายชื่อผู้โชคดีในกิจกรรม JamPlay Together
 
