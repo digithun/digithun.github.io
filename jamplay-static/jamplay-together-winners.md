@@ -20,30 +20,30 @@
 
 ### รางวัลที่ 6 - 30 Starbucks Card 25 รางวัล มูลค่ารางวัลละ 200 บาท
 คุณพิไลลักษณ์ ปันภัทรทรัพย์ <br>
-คุณ Vorrawee P. 
-คุณ Pannit Chan 
-คุณพราวนภา ภู่รัตนากรกุล 
-คุณ Nuengnuch Kraiyat 
-คุณจิดานันท์ เหลืองเพียรสมุท 
-คุณณัฐวดี ไวถนอมสัตว์
-คุณ Krittima Sophakprapha 
-คุณพิธุณิศรา ชลลธีโรจน์ 
-คุณ James B
-คุณ Cateuk Kuetac
-คุณ Tez Sappaithoon
-คุณณมน จันทสุวรรณ
-คุณ Guide Kub
-คุณ Athinop Palorshe 
-คุณณัฐวดี ศิริภาณุรักษ์ 
-คุณ Nattapat Maleehuan 
-คุณ Kerati Buranaviseskul
-คุณ Thayita Somthed
-คุณ CHANITA PHASUK
-คุณพิชชาภัสร์ เลิศฤทัยพันธ์ 
-คุณ Hathaitip Kak
-คุณ Pup Chadap
-คุณ Rungsikorn Rungsikavarnich
-คุณ Muntana Pethkong
+คุณ Vorrawee P. <br>
+คุณ Pannit Chan <br>
+คุณพราวนภา ภู่รัตนากรกุล <br>
+คุณ Nuengnuch Kraiyat <br>
+คุณจิดานันท์ เหลืองเพียรสมุท <br>
+คุณณัฐวดี ไวถนอมสัตว์ <br>
+คุณ Krittima Sophakprapha <br> 
+คุณพิธุณิศรา ชลลธีโรจน์ <br>
+คุณ James B <br>
+คุณ Cateuk Kuetac <br>
+คุณ Tez Sappaithoon <br>
+คุณณมน จันทสุวรรณ <br>
+คุณ Guide Kub <br>
+คุณ Athinop Palorshe <br> 
+คุณณัฐวดี ศิริภาณุรักษ์ <br>
+คุณ Nattapat Maleehuan <br> 
+คุณ Kerati Buranaviseskul <br>
+คุณ Thayita Somthed <br>
+คุณ CHANITA PHASUK <br>
+คุณพิชชาภัสร์ เลิศฤทัยพันธ์ <br>
+คุณ Hathaitip Kak <br>
+คุณ Pup Chadap <br>
+คุณ Rungsikorn Rungsikavarnich <br>
+คุณ Muntana Pethkong <br>
 
 
 ## รายละเอียดการรับของรางวัล 
