@@ -19,10 +19,8 @@
 คุณ Natjira Rattanasirivilai 
 
 ### รางวัลที่ 6 - 30 Starbucks Card 25 รางวัล มูลค่ารางวัลละ 200 บาท
-คุณพิไลลักษณ์ ปันภัทรทรัพย์ 
-
+คุณพิไลลักษณ์ ปันภัทรทรัพย์ <br>
 คุณ Vorrawee P. 
-
 คุณ Pannit Chan 
 คุณพราวนภา ภู่รัตนากรกุล 
 คุณ Nuengnuch Kraiyat 
