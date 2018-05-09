@@ -59,7 +59,7 @@
     <a href="/affiliate/" style="text-decoration: none">
         <button class="static-button-jamplay"
             onMouseOver="this.style.opacity='0.8'"
-            onMouseOut="this.style.opacity='1'">ยืนยันรับของรางวัล
+            onMouseOut="this.style.opacity='1'">ยืนยันรับรางวัล
         </button>
     </a>  
 </div> 
